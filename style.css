@@ -1,4 +1,12 @@
-.mid-area{
-    display: inline-block;
+.card{
+    margin-top: 10px;
+}
+.text{
+    margin-left: 10px;
+}
+span{
+    color: #289BDE;
+}
+.btn-cour{
     align-items: center;
 }
