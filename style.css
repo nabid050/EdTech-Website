@@ -4,18 +4,16 @@
 .text{
     margin-left: 10px;
 }
-span{
-    color: #289BDE;
-}
-/* .btn-cour{
-    align-items: center;
-} */
 .btn-light{
     display: inline-block;
-    margin-top: 50px;
+    margin-top: 40px;
 }
 footer{
+    text-align: center;
     background-color: black;
     color: white;
     padding: 20px;
+}
+.institute{
+    margin-top: 30px;
 }
