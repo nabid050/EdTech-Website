@@ -4,16 +4,6 @@
 .text{
     margin-left: 10px;
 }
-.btn-light{
-    display: inline-block;
-    margin-top: 40px;
-}
-footer{
-    text-align: center;
-    background-color: black;
-    color: white;
-    padding: 20px;
-}
-.institute{
-    margin-top: 30px;
+.carousel-item img{
+    filter: brightness(40%);
 }
